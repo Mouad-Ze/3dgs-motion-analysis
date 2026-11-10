@@ -1,0 +1,7 @@
+# Python packages (installed in the notebook on Colab)
+numpy
+pandas
+matplotlib
+opencv-python
+nerfstudio
+# System packages (apt): colmap, ffmpeg, xvfb

@@ -1,0 +1,9 @@
+# data and large artifacts: do not commit
+tum/
+data/
+work/
+outputs/
+*.tgz
+results/*.json
+.ipynb_checkpoints/
+__pycache__/
